@@ -106,8 +106,11 @@ Tags – pasta que armazena as configurações bases do projeto. Estes itens de 
 --------------------------------------
 
 ### 3.2.1 Processamento e Aprovação de Solicitações de Mudança
-    Para todas as mudanças, o cadastro e controle serão realizados na Ferramenta de Gestão de Projetos.                      
-As liberações dos artefatos só acontecerão após a aprovação do Comitê de Avaliação de Mudança nos registros realizados na Ferramenta de Gestão de Projetos.                                                                                            
+   Para todas as mudanças, o cadastro e controle serão realizados
+na Ferramenta de Gestão de Projetos.                                               
+As liberações dos artefatos só acontecerão após a aprovação 
+do Comitê de Avaliação de Mudança nos registros realizados na Ferramenta
+de Gestão de Projetos.                                                                                            
 
 
 ### 3.2.2 Comitê de Controle de Mudança (CCB)
