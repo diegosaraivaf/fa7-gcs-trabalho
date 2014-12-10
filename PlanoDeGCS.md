@@ -96,17 +96,19 @@ Projeto
      |_ Branches                                                                                                             
      |_ Tags                                                                                                                 
 	
-Projeto – nome do projeto 
-Master – pasta que contêm a estrutura definida no item. Sua finalidade é receber todos os artefatos. A equipe armazena nesta pasta todas as versões de trabalho dos documentos ou códigos.
-Branches – pasta que armazena os documentos  de uma versão que está sofrendo uma mudança.
-Tags – pasta que armazena as configurações bases do projeto. Estes itens de configuração representam versões-base para entrega e não sofrerão mais mudanças.
+Projeto – nome do projeto                                                                                                    
+Master – pasta que contêm a estrutura definida no item. Sua finalidade é receber todos os artefatos. A equipe armazena nesta pasta todas as versões de trabalho dos documentos ou códigos.                                                                
+Branches – pasta que armazena os documentos  de uma versão que está sofrendo uma mudança.                                    
+Tags – pasta que armazena as configurações bases do projeto. Estes itens de configuração representam versões-base para       entrega e não sofrerão mais mudanças.                                                                                        
 
 
 3.2 Controle de Configuração e Mudança
 --------------------------------------
 
 ### 3.2.1 Processamento e Aprovação de Solicitações de Mudança
-_[Descreva o processo pelo qual os problemas e as mudanças são submetidos, revisados e dispostos. Inclua como funciona a transição de estados de uma solicitação de mudança]_
+    Para todas as mudanças, o cadastro e controle serão realizados na Ferramenta de Gestão de Projetos.                      
+As liberações dos artefatos só acontecerão após a aprovação do Comitê de Avaliação de Mudança nos registros realizados na Ferramenta de Gestão de Projetos.                                                                                            
+
 
 ### 3.2.2 Comitê de Controle de Mudança (CCB)
 _[Descreva a participação e os procedimentos para processar solicitações e aprovações de mudança a serem seguidos pelo CCB. Informe quem são os membros do CCB e suas responsabilidades.]_
