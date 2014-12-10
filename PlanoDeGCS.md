@@ -91,7 +91,16 @@ _Descreva em que pontos do ciclo de vida do projeto ou produto as baselines deve
 _Descreva quem autoriza uma baseline e o que ela contém.]_
 
 ### 3.1.4 Estrutura do Repositório de Versões
-_[Descreva a organização de diretórios do seu repositório e que itens/arquivos devem ser armazenados em cada diretório.]_
+Projeto 
+     |_ Master
+     |_ Branches
+     |_ Tags
+	
+Projeto – nome do projeto 
+Master – pasta que contêm a estrutura definida no item. Sua finalidade é receber todos os artefatos. A equipe armazena nesta pasta todas as versões de trabalho dos documentos ou códigos.
+Branches – pasta que armazena os documentos  de uma versão que está sofrendo uma mudança.
+Tags – pasta que armazena as configurações bases do projeto. Estes itens de configuração representam versões-base para entrega e não sofrerão mais mudanças.
+
 
 3.2 Controle de Configuração e Mudança
 --------------------------------------
