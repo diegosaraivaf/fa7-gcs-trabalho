@@ -91,10 +91,10 @@ _Descreva em que pontos do ciclo de vida do projeto ou produto as baselines deve
 _Descreva quem autoriza uma baseline e o que ela contém.]_
 
 ### 3.1.4 Estrutura do Repositório de Versões
-Projeto 
-     |_ Master
-     |_ Branches
-     |_ Tags
+Projeto                                                                                                                      
+     |_ Master                                                                                                               
+     |_ Branches                                                                                                             
+     |_ Tags                                                                                                                 
 	
 Projeto – nome do projeto 
 Master – pasta que contêm a estrutura definida no item. Sua finalidade é receber todos os artefatos. A equipe armazena nesta pasta todas as versões de trabalho dos documentos ou códigos.
